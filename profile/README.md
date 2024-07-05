@@ -1,4 +1,4 @@
-## CleanUp zzz 👋
+## CleanUp 👋
 
 <!--
 
