@@ -1,12 +1,28 @@
 ## CleanUp 👋
 
-<!--
+# 📌 서비스에 대하여
+## 📑 소개
+캔 쓰레기를 재활용 쓰레기통에 넣어보세요!
+CSS의 FlexBox 속성을 재밌게 익혀볼 수 있습니다.
+FlexBox Froggy를 벤치마킹 했습니다.
+## 📑 기능
+### 회원가입 및 로그인
+회원가입 및 로그인 후 사용 가능합니다.
+닉네임과 이메일, 비밀번호를 입력해주세요.
+### 랭킹
+상위 랭킹 3위의 인물들을 확인할 수 있습니다.
+Go 버튼을 눌러 게임을 시작해볼까요?
+### 전체 문제 조회
+CSS FlexBox를 재밌게 익히도록 도와줄 게임 문제들을 조회할 수 있습니다.
+### 게임 페이지
+이제 코드를 입력하여 쓰레기를 같은 색상의 쓰레기통에 넣어보세요!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 📌 팀원 소개
+### BE
+|김준서|차재현|
+|:--:|:--:|
+|||
+### FE
+|고윤성|박민혜|박소현|
+|:--:|:--:|
+||||
