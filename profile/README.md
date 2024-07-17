@@ -4,6 +4,7 @@
 CSS의 FlexBox 속성을 재밌게 익혀볼 수 있습니다.<br />
 FlexBox Froggy를 벤치마킹 했습니다.
 
+<br />
 ## 📌 팀원 소개
 프로그래머스 데브코스<br />
 타입스크립트로 함께하는 웹 풀 사이클 개발 2기 team5
@@ -16,6 +17,11 @@ FlexBox Froggy를 벤치마킹 했습니다.
 |:--:|:--:|:--:|
 |<a href="https://github.com/yoonsaeng"><img src="https://github.com/user-attachments/assets/afa85325-52d1-4899-810c-385cfda05ab3" width="70px" /></a>|<a href="https://github.com/candypmh"><img src="https://github.com/user-attachments/assets/8181ca80-03b0-43a6-9c08-a66e86b7b298" width="70px" /></a>|<a href="https://github.com/SSOFERRET"><img src="https://github.com/user-attachments/assets/35645f15-b5ef-478c-96f3-e196e0bd0c9e" width="70px" /></a>|
 
+<br />
+## 📌 작업 기간
+2024/07/05 ~
+
+<br />
 ## 📌 기능 소개
 #### 📑 회원가입 및 로그인
 회원가입 및 로그인 후 사용 가능합니다.<br />
