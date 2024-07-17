@@ -1,5 +1,13 @@
 # CleanUp✨
 
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
+</div>
+
 캔 쓰레기를 재활용 쓰레기통에 넣어보세요!<br />
 CSS의 FlexBox 속성을 재밌게 익혀볼 수 있습니다.<br />
 FlexBox Froggy를 벤치마킹 했습니다.
