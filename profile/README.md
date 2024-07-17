@@ -1,20 +1,22 @@
-# CleanUp
+# CleanUp✨
 
 캔 쓰레기를 재활용 쓰레기통에 넣어보세요!<br />
 CSS의 FlexBox 속성을 재밌게 익혀볼 수 있습니다.<br />
 FlexBox Froggy를 벤치마킹 했습니다.
 
 ## 📌 팀원 소개
+프로그래머스 데브코스<br />
+타입스크립트로 함께하는 웹 풀 사이클 개발 2기 team5
 ### BE
 |<a href="https://github.com/jacknafa">김준서</a>|<a href="https://github.com/ckwogus37">차재현</a>|
 |:--:|:--:|
-|<img src="https://github.com/user-attachments/assets/d6794678-780c-4e45-91e1-c14e5f0bd767" width="70px" />|<img src="https://github.com/user-attachments/assets/45674217-56d3-4104-ba00-82b9d1db509a" width="70px" />|
+|<a href="https://github.com/jacknafa"><img src="https://github.com/user-attachments/assets/d6794678-780c-4e45-91e1-c14e5f0bd767" width="70px" /></a>|<a href="https://github.com/ckwogus37"><img src="https://github.com/user-attachments/assets/45674217-56d3-4104-ba00-82b9d1db509a" width="70px" /></a>|
 ### FE
 |<a href="https://github.com/yoonsaeng">고윤성</a>|<a href="https://github.com/candypmh">박민혜</a>|<a href="https://github.com/SSOFERRET">박소현</a>|
 |:--:|:--:|:--:|
-|<img src="https://github.com/user-attachments/assets/afa85325-52d1-4899-810c-385cfda05ab3" width="70px" />|<img src="https://github.com/user-attachments/assets/8181ca80-03b0-43a6-9c08-a66e86b7b298" width="70px" />|<img src="https://github.com/user-attachments/assets/35645f15-b5ef-478c-96f3-e196e0bd0c9e" width="70px" />|
+|<a href="https://github.com/yoonsaeng"><img src="https://github.com/user-attachments/assets/afa85325-52d1-4899-810c-385cfda05ab3" width="70px" /></a>|<a href="https://github.com/candypmh"><img src="https://github.com/user-attachments/assets/8181ca80-03b0-43a6-9c08-a66e86b7b298" width="70px" /></a>|<a href="https://github.com/SSOFERRET"><img src="https://github.com/user-attachments/assets/35645f15-b5ef-478c-96f3-e196e0bd0c9e" width="70px" /></a>|
 
-## 📌 기능
+## 📌 기능 소개
 #### 📑 회원가입 및 로그인
 회원가입 및 로그인 후 사용 가능합니다.<br />
 닉네임과 이메일, 비밀번호를 입력해주세요.
